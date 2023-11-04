@@ -1,0 +1,4 @@
+Daftar Tugas Harian
+
+- [] Belajar Git dan GitHub
+- [] Melakukan Pull Request
