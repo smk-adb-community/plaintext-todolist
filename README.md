@@ -13,4 +13,4 @@ Buatlah sebuah tim, masing-masing tim memiliki 2-3 anggota dan masing-masing tim
 - Berikan nama cabang (branch) berdasarkan peran (misalnya, `nama-tim/username` untuk Kontributor 1).
 - Buat commit dengan pesan yang sesuai dengan **Conventional Commits**.
 - Buat Pull Request dengan deskripsi yang informatif.
-- Metion Issue yang sebelumnya di buat pada Pull Request.
+- Mention Issue yang sebelumnya dibuat saat melakukan Pull Request.
